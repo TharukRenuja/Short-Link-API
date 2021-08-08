@@ -1,2 +1,3 @@
 # Short-Link-API
-A link shortner application programming interface
+
+A link shortner application programming interface.
