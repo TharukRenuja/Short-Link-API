@@ -17,3 +17,9 @@ https://shortlink.api.fayas.me/?query=<your-link>
 ```
 
 ---
+
+#### (C) [FayasNoushad](https://github.com/FayasNoushad)
+
+#### All Rights Reserved
+
+---
