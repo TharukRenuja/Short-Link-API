@@ -15,3 +15,5 @@ A link shortner application programming interface.
 ```
 https://shortlink.api.fayas.me/?query=<your-link>
 ```
+
+---
