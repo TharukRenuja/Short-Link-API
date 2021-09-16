@@ -16,7 +16,7 @@ def main():
     if request.args.get('query'):
         query = request.args.get('query')
     else:
-        return redirect("https://github.com/FayasNoushad/Short-Link-API")
+        return "Documentation:- <a href='https://github.com/FayasNoushad/Short-Link-API'>Short-Link-API</a>"
     results = short(query)
     if results is not None:
         return jsonify(results)
