@@ -4,6 +4,15 @@ A link shortner application programming interface ( API )
 
 ---
 
+```
+Made with Python3
+(C) @FayasNoushad
+Copyright permission under MIT License
+License -> https://github.com/FayasNoushad/Short-Link-API/blob/main/LICENSE
+```
+
+---
+
 ## Usage
 
 ```
