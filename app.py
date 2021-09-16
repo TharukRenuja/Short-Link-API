@@ -21,7 +21,9 @@ def main():
     if results is not None:
         return jsonify(results)
     else:
-        return "Something wrong"
+        return jsonify(
+            {"error": "Something wrong"}
+        )
 
 
 if __name__ == '__main__':
