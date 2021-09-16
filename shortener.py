@@ -2,7 +2,7 @@
 # (C) @FayasNoushad
 # Copyright permission under MIT License
 # All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/ShortLinkAPI/blob/main/LICENSE
+# License -> https://github.com/FayasNoushad/Short-Link-API/blob/main/LICENSE
 
 from pyshorteners import Shortener
 
