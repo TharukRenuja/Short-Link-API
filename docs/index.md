@@ -1,5 +1,5 @@
 ## Usage
 
 ```
-https://shortlink.api.fayas.me/?query=<your-link>
+https://short-link-api.vercel.app/?query=<your-link>
 ```
