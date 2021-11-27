@@ -1,25 +1,7 @@
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Short-Link-API/blob/main/LICENSE
-```
+# Short Link API
+A link shortener python api
 
----
+## Project Links
 
-## Deploy
-
-```sh
-git clone https://github.com/FayasNoushad/Short-Link-API.git
-cd Short-Link-API
-pip3 install -r requirements.txt
-python3 app.py
-```
-
----
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-
----
+- **API :-** https://short-link-api.vercel.app
+- **Docs :-** https://fayasnoushad.github.io/Short-Link-API
