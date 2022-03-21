@@ -1,37 +1,7 @@
-# Short-Link-API
+# Short Link API
+A link shortener python api
 
-A link shortner application programming interface ( API )
+## Project Links
 
----
-
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Short-Link-API/blob/main/LICENSE
-```
-
----
-
-## Deploy
-
-```sh
-git clone https://github.com/FayasNoushad/Short-Link-API/tree/main
-cd Short-Link-API
-pip3 install -r requirements.txt
-python3 app.py
-```
-
----
-
-## Usage
-
-```
-https://shortlink.api.fayas.me/?query=<your-link>
-```
-
----
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
+- **API :-** https://short-link-api.vercel.app
+- **Docs :-** https://fayasnoushad.github.io/Short-Link-API
